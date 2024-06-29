@@ -1,10 +1,28 @@
 {
     "cSpell.words": [
+        "advlist",
+        "aligncenter",
+        "alignjustify",
+        "alignleft",
+        "alignright",
         "appewrite",
         "appwrite",
+        "backcolor",
+        "bullist",
+        "charmap",
+        "forecolor",
+        "formatselect",
+        "insertdatetime",
+        "naviagte",
+        "numlist",
+        "outdent",
         "reduxjs",
+        "removeformat",
+        "searchreplace",
         "signin",
         "Signup",
-        "VITE"
+        "visualblocks",
+        "VITE",
+        "wordcount"
     ]
 }
